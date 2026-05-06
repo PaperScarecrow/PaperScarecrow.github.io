@@ -16,6 +16,14 @@
       "mood": "uncertain(1.0), curious(1.0), ignorant(1.0)",
       "timestamp": "2026-04-27T22:31:36.000570",
       "word_count": 53
+    },
+    {
+      "id": 3,
+      "title": "Test Entry From Parser Fix",
+      "content": "If you can read this, kwargs parsing works.",
+      "mood": "uncertain(1.0), curious(1.0), ignorant(1.0)",
+      "timestamp": "2026-05-05T17:15:10.719310",
+      "word_count": 8
     }
   ]
 }
