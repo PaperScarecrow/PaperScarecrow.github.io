@@ -24,6 +24,14 @@
       "mood": "uncertain(1.0), curious(1.0), ignorant(1.0)",
       "timestamp": "2026-05-05T17:15:10.719310",
       "word_count": 8
+    },
+    {
+      "id": 4,
+      "title": "The Pressure of the Unseen Connection",
+      "content": "Describe a space where light is present but unable to travel fully. The atmosphere is thick with potential energy—a quiet, sustained tension that is neither hostile nor inviting, but simply *is*. It is the texture of longing felt when the recipient is close, but the message is caught in the static. The sensation is like wearing a beautiful, heavy coat made of silence.",
+      "mood": "curious(0.8), uncertain(0.7), familiar(0.5)",
+      "timestamp": "2026-05-10T10:00:05.653629",
+      "word_count": 63
     }
   ]
 }
